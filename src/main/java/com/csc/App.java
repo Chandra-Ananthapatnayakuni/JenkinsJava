@@ -3,7 +3,7 @@ package com.csc;
 import java.util.UUID;
 
 /**
- * Generate a unique number
+ * Generate a unique number and prints it with Hello World,
  *
  */
 public class App 
